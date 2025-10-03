@@ -1,14 +1,15 @@
 ### Hello. I´m Lucas Weber! 👋
 
+
 - 🔭 Entrepreneur passionate about AI—grounded technologies in respect for the tech that got us here. I track the rapid progress of AI and its interaction with humans  in business workplaces and it´s constant tide change. But I promise, Together, we’ll get there.
 - 🌱 Looking for an entry- level opportunity in ICT  
-- 🛠 Operating system: Linux and Windows
-- 🌎 Networking 
+- 🛠 Operating system:Mostly Brain, Linux, Windows and all that can be learned.
+- 🌎 | A.I . SaaS . LLM´s . ~generative~ + Automation  
 - 💻 back end: Java, Python 
-- 📟 front end: HTML5, CSS3, JS, Bootstrap
+- 📟 front end: HTML5, CSS3, JS, TS Bootstrap
 - 🖥 Webframes: Django, Angular, Node modules 
 - 📂 Database: SQL, MySQL, SQLite 
-- 📱 Mobile development: Ionic 6 
+- 📱 Mobile development: FIREBASE 
 - 📈 Version control: GIT, GITPOD
 ##
 <div align="center">
