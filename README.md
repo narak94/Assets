@@ -1,6 +1,6 @@
-### Hello ! 👋
+### Hello. I´m Lucas Weber! 👋
 
-- 🔭 Recent graduate with a Higher Diploma in Computer Science at CCT College in Dublin.
+- 🔭 Entrepreneur passionate about AI—grounded technologies in respect for the tech that got us here. I track the rapid progress of AI and its interaction with humans  in business workplaces and it´s constant tide change. But I promise, Together, we’ll get there.
 - 🌱 Looking for an entry- level opportunity in ICT  
 - 🛠 Operating system: Linux and Windows
 - 🌎 Networking 
