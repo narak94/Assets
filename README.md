@@ -11,35 +11,109 @@
 - 📂 Database: SQL, MySQL, SQLite 
 - 📱 Mobile development: FIREBASE 
 - 📈 Version control: GIT, GITPOD
-##
-<div> align="center">
-  <a></a> href="https://github.com/narak94/my_self">
-  <img> height="150em" src="https://github-readme-stats.vercel.app/api?username=narak94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img> height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priflores&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div></div> style="display: inline_block"><br>
- <img> align="center" alt="adobe-icon" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/adobe-icon.svg?token=GHSAT0AAAAAADMJZTV4O7EOQTWVCXF3M4A62HAI6UQ">
-<img> align="center" alt="anthropic-icon" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/anthropic-icon.svg?token=GHSAT0AAAAAADMJZTV52NVOP5U3WVV5UCLU2HAI7EQ">
-<img> align="center" alt="cloud" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/cloud.svg?token=GHSAT0AAAAAADMJZTV4HMB3REJZCX33DO2C2HAI7YA">
-<img> align="center" alt="firebase-icon" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/firebase-icon.svg?token=GHSAT0AAAAAADMJZTV537JNAQET4ETCZXEE2HAI76A">
-<img> align="center" alt="godot-icon" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/godot-icon.svg?token=GHSAT0AAAAAADMJZTV42BDTHTUMF3NR63XY2HAJACQ">
-<img> align="center" alt="godot-icon" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/godot-icon.svg?token=GHSAT0AAAAAADMJZTV42BDTHTUMF3NR63XY2HAJACQ">
-<img> align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/js.svg?token=GHSAT0AAAAAADMJZTV4NZZDRBXBVSM3K4BW2HAJANA">
-<img> align="center" alt="meta-icon" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/meta-icon.svg?token=GHSAT0AAAAAADMJZTV5VCGAQVQOC5E7SWVM2HAJA2Q">
-<img> align="center" alt="nodejs-icon-alt" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/nodejs-icon-alt.svg?token=GHSAT0AAAAAADMJZTV5HO6BZPXLKTGNOBXM2HAJA7A">
-<img> align="center" alt="notion-icon" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/notion-icon.svg?token=GHSAT0AAAAAADMJZTV5MHVIEZHTSATGOFOC2HAJBLA">
-<img> align="center" alt="python-logo" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/python-logo.svg?token=GHSAT0AAAAAADMJZTV5KHSDO7AAEXUVQ3NM2HAJBQQ">
-<img> align="center" alt="svg_002" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/svg_002.svg?token=GHSAT0AAAAAADMJZTV4WIROW357C5Y3TPNW2HAJBXQ">
-<img> align="center" alt="typescript-icon" height="30" width="40" src="https://raw.githubusercontent.com/narak94/My_Self/refs/heads/main/Display_icons_svg/typescript-icon.svg?token=GHSAT0AAAAAADMJZTV4DJGTIKHEAHVRVSZO2HAJB5Q"
+
   
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Lucas+Flores+%F0%9F%91%8B;Full-Stack+Developer+%7C+Game+Developer;Python+%7C+JavaScript+%7C+Godot+%7C+Pygame" alt="Typing SVG" />
 </div>
-<br>
- <div> 
-  
-  <a></a> href="https://www.instagram.com/priyflores/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a></a> href= "mailto:pri_256@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target= "_blank"></a>
-  <a></a> href="https://www.linkedin.com/in/priscila-flores-45682bb6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-  ![Snake gif](https://github.com/PriFlores/PriFlores/blob/main/github-contribution-grid-snake.svg)
-  </div>
+
+---
+
+## 🚀 **About Me**
+
+Hello! I'm **Lucas Flores**, a passionate **Full-Stack Developer** and **Game Developer** from Brazil 🇧🇷.  
+I love building **web applications**, creating **interactive games**, and exploring new technologies.
+
+- 🎓 **Computer Science student** — always learning and improving.  
+- 💼 Open to **entry-level opportunities** in **development** and **IT**.  
+- 🎮 Currently developing games with **Godot** and **Pygame**.  
+- 🌱 Learning **advanced JavaScript**, **Node.js**, and **cloud technologies**.  
+
+---
+
+## 🛠️ **Tech Stack**
+
+<div align="center">
+
+### **Languages**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+
+### **Frameworks & Libraries**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pygame/pygame-original.svg" alt="Pygame" width="50" height="50"/>
+
+### **Game Development**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="50" height="50"/>
+
+### **Databases**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+
+### **Tools & Platforms**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narak94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narak94&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narak94&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/narak94/narak94/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/narak94/narak94/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/narak94/narak94/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 📫 **Connect with Me**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seuemail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/narak94" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=narak94&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <i>⭐️ Feel free to star my repositories if you find them useful!</i>
+</div>
+
 
