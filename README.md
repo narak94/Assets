@@ -14,7 +14,7 @@
 ##
 <div align="center">
   <a href="https://github.com/narak94/my_self">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucas_Weber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=narak94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priflores&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
